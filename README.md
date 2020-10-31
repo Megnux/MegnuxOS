@@ -1,1 +1,2 @@
 # MegnuxOS
+Password account: utenteadmin
